@@ -34,7 +34,7 @@
     "dotenv": "^8.1.0",
     "http-server": "^0.11.1",
     "mkdirp": "^0.5.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "sleepover": "^1.1.4"
   }
 }
